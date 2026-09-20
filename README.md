@@ -1,6 +1,5 @@
 # ancerinh
 # 안녕하세요! :wave: 
-<img src="https://s2.ezgif.com/tmp/ezgif-2-96cdbce89b.gif" alt="반짝임 GIF" width="150"/>
 
 
 저는 **빅데이터융합학과 재학중인 대학생**입니다 :computer: 매일 새로운 기술을 배우고, 성장하고 있습니다! :rocket:
